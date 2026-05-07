@@ -3,7 +3,7 @@
   tab  q    w    e    r    t    y    u    i    o    p    [    ]    \
   caps a    s    d    f    g    h    j    k    l    ;    '    ret
   lsft z    x    c    v    b    n    m    ,    .    /    rsft
-  lctl lmet lcmd           spc            rcmd rmet rctl
+  lctl lmet rcmd           spc            rcmd rmet rctl
 )
 
 (deflayer dvorak
