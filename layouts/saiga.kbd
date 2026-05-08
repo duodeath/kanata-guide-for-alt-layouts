@@ -3,11 +3,11 @@
   tab  q    w    e    r    t    y    u    i    o    p    [    ]    \
   caps a    s    d    f    g    h    j    k    l    ;    '    ret
   lsft z    x    c    v    b    n    m    ,    .    /    rsft
-  lctl lmet cmnd           spc            rcmd rmet rctl
+  lctl lmet lmet           spc            rmet rmet rctl
 )
 
-(deflayer dvorak
-  grv  1    2    3    4    5    6    7    8    9    0    -    =    caps
+(deflayer saiga
+  grv  1    2    3    4    5    6    7    8    9    0    -    =    lctl
   tab  w    b    l    d    f    q    r    u    o    .    [    ]    \
   lctl c    s    t    h    y    x    n    e    a    i    /    ret
   lsft g    v    m    p    k    z    j    ;    '    ,    rsft
